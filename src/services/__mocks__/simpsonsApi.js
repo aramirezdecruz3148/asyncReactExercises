@@ -1,4 +1,4 @@
-export const getQuotes = () => {
+export const getSimpsonsQuotes = () => {
   return Promise.resolve([
     {
       'quote': 'Shoplifting is a victimless crime, like punching someone in the dark.',
